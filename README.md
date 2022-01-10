@@ -1,4 +1,4 @@
-# Desenvovimento Java Web no Spring Boot
+<h1 align="center">Desenvovimento Java Web no Spring Boot</h1>
 
 
 
@@ -33,5 +33,18 @@ tb_user
 | 4  | Ana   | ana@gmail.com   | 2             |
      
 
+![department](https://user-images.githubusercontent.com/97298193/148825385-bdfe8f3e-bbc2-4127-9e7b-70aa5cdd7771.PNG)
+![postman](https://user-images.githubusercontent.com/97298193/148825399-574d11b3-02f9-42f9-bda2-6214d9baa51c.PNG)
+     
+<h2>Códigos</h2>
+     <p>Configuração utilizado no Maven</p>
+<p>
+ <plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-resources-plugin</artifactId>
+	<version>3.1.0</version>
+</plugin>
+   
+ 
 
 
