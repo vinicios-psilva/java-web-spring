@@ -38,13 +38,15 @@ tb_user
      
 <h2>Códigos</h2>
      <p>Configuração utilizado no Maven</p>
-<p>
- <plugin>
-	<groupId>org.apache.maven.plugins</groupId>
-	<artifactId>maven-resources-plugin</artifactId>
-	<version>3.1.0</version>
-</plugin>
-   
- 
+
+![maven](https://user-images.githubusercontent.com/97298193/148828049-b877b3f7-0d99-418b-b21c-a540914435c4.PNG)
+	    
+<p>Configuração do Banco de Dados</p>
+
+![bancoDeDados](https://user-images.githubusercontent.com/97298193/148828171-32621de5-1aec-4935-b00f-d4003f13d4f2.PNG)
+	    
+<p>Script SQL</p>
+	    
+![bancDeDado2](https://user-images.githubusercontent.com/97298193/148828278-87d2a1a6-c620-4c6d-a06f-5e6c72b28a0a.PNG)
 
 
